@@ -47,19 +47,42 @@ Logs all purchases made by customers.
 
 ---
 
+---
+
+## 📂 Folders and Files
+
+```plaintext
+online-bookstore-sql-queries/
+├── Online_Bookstore_SQL_Queries.pdf             # 11 basic SQL queries
+├── Online_Bookstore_Advanced_SQL_Queries.pdf    # 9 advanced SQL queries
+```
+
+
+
 ## 🔍 Key SQL Analysis Tasks
 
-Below are some example questions answered in this project:
+### ✅ Basic SQL Queries:
+Stored in **Online_Bookstore_SQL_Queries.pdf**
 
-- Which genre has the highest total sales?
-- Who are the top 5 customers by total spend?
-- Which authors sold the most books?
-- What is the remaining stock after fulfilling all orders?
-- Cities where customers who spent more than $30 are located.
-- Most frequently ordered books.
-- Top 3 most expensive books in the Fantasy genre.
+**Examples include:**
+- Books by genre or year  
+- Total stock and book details  
+- Orders placed in a specific month  
+- Customers by country or quantity  
+- Top/bottom priced books  
+- Total revenue from orders  
+  
 
----
+### 🚀 Advanced SQL Queries:
+Stored in **Online_Bookstore_Advanced_SQL_Queries.pdf**
+
+**Examples include:**
+- Most frequently ordered books  
+- Top spenders and high-value orders  
+- Total books sold per genre/author  
+- Average price by genre  
+- Remaining stock after orders  
+
 
 ## 🛠️ Tools Used
 
@@ -81,5 +104,4 @@ Below are some example questions answered in this project:
 2. Open the `.sql` file(s) in your SQL editor.
 3. Run the schema and insert statements to create and populate the database.
 4. Execute the analysis queries for insights.
-
 
